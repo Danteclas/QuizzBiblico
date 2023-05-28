@@ -147,8 +147,9 @@ body {
   background-color: #40B576;
   color: #FFF;
 }
-.img img{
-  width:100%;
+ img{
+  width: 100%;
+  max-height: 72vh;
 }
 /* RESPONSIVO */
 
